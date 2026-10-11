@@ -144,8 +144,7 @@ If you find an issue or have an idea for improving one of the projects, feel fre
 
 **Mahmoued Dawoud ==>(MD1)**
 
-Python learner interested in machine learning, artificial intelligence, and software development.
----
+## Python learner interested in machine learning, artificial intelligence, and software development.
 
 ## ⭐ Support
 
